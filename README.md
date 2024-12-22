@@ -1,5 +1,10 @@
 # LoCo (Light Color)
 
+![IMG_1983](https://github.com/user-attachments/assets/9faaedc1-d655-42ee-9860-178dbd0cd025)
+
+![IMG_1987](https://github.com/user-attachments/assets/816c099c-9e4c-4ce2-ab68-2979363c1493)
+
+
 
 LoCo = Light Color. This project allows you to put a Game Boy Color in a Game Boy Light shell. Full Light colour PCB using the original parts. This board is made with modern screen kits in mind meaning it does not have the voltage rails for the original screen.
 
@@ -14,6 +19,7 @@ I also occasionally sell pre built PCBs on my store.
 
 ## Building
 
+![locoboardview](https://github.com/user-attachments/assets/ce1d8e81-c134-4052-a94a-4033333eb81e)
 
 
 > [!WARNING]
