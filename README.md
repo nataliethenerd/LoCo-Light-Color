@@ -30,7 +30,7 @@ The thumbwheel circuit can be connected to an OSD screen to control brightness. 
 
 - New power regulator like my [Safer Charge DC](https://nataliethenerd.com/products/safer-charge-dc)
 - [Q5 OSD Game Boy Color screen](https://s.click.aliexpress.com/e/_DmvDS95). The OSD allows you to move the screen
-- Funny Playing Game Boy Pocket shell, with this shell you wont need to perform any trims.
+
 
 **New parts**
 
