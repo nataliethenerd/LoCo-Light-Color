@@ -1,0 +1,12 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "8f832d5b-fe11-4d15-997a-18d08351daf6")
+	(paper "A4")
+	(title_block
+		(title "CGB Reverse Engineer")
+		(company "NatalieTheNerd.com")
+	)
+	(lib_symbols)
+)
