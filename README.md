@@ -42,6 +42,14 @@ The thumbwheel circuit can be connected to an OSD screen to control brightness. 
 
 - [Thumbwheel](https://s.click.aliexpress.com/e/_DFcsKf1)
 
+## Update log:
+
+Jan26: changed the CPU footprint to be a bit more forgiving
+
+| Before | After |
+| ------ | ----- |
+|![old footprint](image-1.png) | ![new footprint](image.png) |
+
 ## Thanks
 - Hozy for the pushing me to do the first ever Light Color
 - Console and Casks for the thumbwheel circuit
